@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tianyu1412.tianintellijplugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tianyu1412.tianintellijplugindemo.MyBundle
 
 class MyApplicationService {
 
